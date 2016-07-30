@@ -1,0 +1,12 @@
+{
+    "name": "bear/totp",
+    "description": "Two-factor authentication based on TOTP and write by PHP.",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TOTP\\": "src/"
+        }
+    }
+}
